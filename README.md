@@ -18,13 +18,12 @@ Tools: scikit-learn, Pandas, Seaborn, Matplotlib, R studio, R Markdown
   
 # Data Analysis and Visualisation
   - [Analysis-on-US-census-data](https://github.com/shrinath305/Analysis-on-US-census-data): Analysis of walkability of suburbs in Melbourne, Victoria and its implications.
-[Titanic Dataset](https://github.com/shrinath305/Titanic-code/blob/master/Titanic.ipynb) - Exploratory Analysis: Exploratory Analysis of the passengers onboard RMS Titanic using Pandas and Seaborn visualisations.
-Big-mart-sales-Prediction: To predict the sales   based on Purchase history, Store location and many more variables .
-[correlation between corruption and development](https://github.com/shrinath305/Visualisation-using-ggplot/blob/master/ggplot2.html): Comparing the corruption index with the UN's Human Development Index (a measure combining health, wealth and education).
-[911 Calls](https://github.com/shrinath305/911-calls-capstone-project-Kaggle-/blob/master/911%20Calls%20Data%20Capstone%20Project%20.ipynb) - Exploratory Analysis: Exploratory Data Analysis of the 911 calls dataset hosted on Kaggle. Demonstrates extraction of useful features from different variables.
+  - [Titanic Dataset](https://github.com/shrinath305/Titanic-code/blob/master/Titanic.ipynb) - Exploratory Analysis: Exploratory Analysis of the passengers onboard RMS Titanic using Pandas and Seaborn visualisations.
+  - [Big-mart-sales-Prediction](https://github.com/shrinath305/Big-mart-sales-Prediction/blob/master/Big%2Bmarts%2Bsales.ipynb): To predict the sales   based on Purchase history, Store location and many more variables .
+  - [correlation between corruption and development](https://github.com/shrinath305/Visualisation-using-ggplot/blob/master/ggplot2.html): Comparing the corruption index with the UN's Human Development Index (a measure combining health, wealth and education).
+  - [911 Calls](https://github.com/shrinath305/911-calls-capstone-project-Kaggle-/blob/master/911%20Calls%20Data%20Capstone%20Project%20.ipynb) - Exploratory Analysis: Exploratory Data Analysis of the 911 calls dataset hosted on Kaggle. Demonstrates extraction of useful features from different variables.
 
 # Micro Projects:
    - [ML with Logistic Regression](https://github.com/shrinath305/WIne-quality/blob/master/Patel_Shrinath_Capstone_Project.ipynb): Using Logistic Regression to predict the quality of wine.
-   - [ML with K Nearest Neighbours](: Using KNN to classify instances from a fake dataset into two target classes, while choosing the best value for K using the elbow method.
    - [ML with Decision Trees and Random Forests](https://github.com/shrinath305/Decision-tree-and-random-forest/blob/master/Decision%20tree%20and%20Random%20forest.ipynb): Using Decision Trees and Random Forests to predict whether a lender will pay their loan back. Uses publically available data from LendingClub.com
     - [Movie Recommendations using Recommender Systems](https://github.com/shrinath305/recommneder-system-using-pyspark/blob/master/Recommender%20Systems%20.ipynb): A micro project to build a recommendation system that makes movie recommendations based on user review similarities.
